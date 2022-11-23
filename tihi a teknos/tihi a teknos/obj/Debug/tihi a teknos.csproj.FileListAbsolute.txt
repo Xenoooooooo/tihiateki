@@ -1,0 +1,16 @@
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\bin\Debug\tihi a teknos.exe.config
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\bin\Debug\tihi a teknos.exe
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\bin\Debug\tihi a teknos.pdb
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.csproj.AssemblyReference.cache
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.csproj.SuggestedBindingRedirects.cache
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.csproj.CoreCompileInputs.cache
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.exe
+C:\kicsifiu\OKJ\DD\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.pdb
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\bin\Debug\tihi a teknos.exe.config
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\bin\Debug\tihi a teknos.exe
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\bin\Debug\tihi a teknos.pdb
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.exe
+C:\Users\user\OneDrive\Asztali gép\tihi a teknos\tihi a teknos\obj\Debug\tihi a teknos.pdb
